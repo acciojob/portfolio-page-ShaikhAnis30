@@ -1,2 +1,45 @@
 
 /* Your CSS Code here. */
+
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:8px;
+	width:200px;
+	height:200px;
+}
+
+h1{
+	text-align:center;
+}
+
+a{
+	font-size:30px;
+}
+
+
+#skills{
+	font-size:30px;
+	color:Red;
+}
+
+ul{
+	font-size:20px;
+	color:black;
+}
+
+/* .skill{
+	font-size:20px;
+	color:black;
+} */
+
+#projects{
+	font-size:30px;
+	color:Red;
+}
+
+/* .project{
+	font-size:20px;
+	color:black;
+} */
